@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CarbonCardView">
+        <item name="android:background">@color/white</item>
+        <item name="android:layout_margin">@dimen/_8sdp</item>
+        <item name="carbon_cornerRadius">@dimen/_5sdp</item>
+        <item name="carbon_elevation">@dimen/_16sdp</item>
+        <item name="carbon_elevationShadowColor">#D81B60</item>
+    </style>
+</resources>
